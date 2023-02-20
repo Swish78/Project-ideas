@@ -1,0 +1,25 @@
+I want to build a Netflix movie recommendation web app using simple ML, Flask, Django, API, and Bootstrap. 
+
+Procedures or steps that I'll be following: 
+
+Data Collection: The first step is to collect a dataset of movies and user ratings. You can use publicly available datasets such as the MovieLens dataset or scrape data from websites like IMDB or Netflix.
+
+Data Cleaning and Preprocessing: The next step is to clean and preprocess the dataset to remove any duplicates, missing values, or irrelevant data. You can also perform data normalization and feature engineering to extract useful features from the dataset.
+
+Machine Learning Model Development: Develop a recommendation algorithm, such as collaborative filtering or content-based filtering, using simple machine learning techniques. Train the model using the preprocessed dataset.
+
+Flask or Django API Development: Use Flask or Django to develop a RESTful API that accepts a movie ID or user ID as input and returns the top recommended movies for that user based on their watch history and preferences.
+
+Frontend Development: Develop a user-friendly frontend using Bootstrap to create responsive and interactive templates. The frontend should allow users to search for movies, view movie details, and get personalized movie recommendations.
+
+Integration: Finally, integrate the machine learning model, API, and frontend into a single web application.
+
+
+Here are some libraries and tools which I will b using to build this web app:
+
+Python: A programming language to write the backend logic and develop the machine learning model.
+Flask or Django: A Python web framework to develop the API and handle HTTP requests and responses.
+Bootstrap: A CSS framework to create responsive and interactive frontend templates.
+Pandas: A data analysis library to perform data cleaning and preprocessing.
+Scikit-learn: A machine learning library to develop the recommendation algorithm.
+SQLite or PostgreSQL: A relational database to store and retrieve movie and user data.
